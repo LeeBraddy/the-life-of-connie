@@ -1,0 +1,4 @@
+to: epub3
+output-file: book.epub
+metadata:
+  cover-image: ./img/cover-2500w.jpg

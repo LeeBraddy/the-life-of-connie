@@ -1,0 +1,12 @@
+input-files:
+  - metadata.yaml
+  - copyright-page.md
+  - about-e-book.md
+  - dedication.md
+  - contributors.md
+  - foreword.md
+  - chapter-1.md
+  - afterword.md
+standalone: true
+table-of-contents: true
+dpi: 300
