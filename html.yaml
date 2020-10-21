@@ -1,5 +1,6 @@
 to: html5
 output-file: book.html
+shift-heading-level-by: 1
 metadata:
   title: The Life Of Connie
   subtitle: A Hearthstone Book
