@@ -1,4 +1,4 @@
-# CHAPTER 1
+# Chapter 1
 
 My name is Mrs. Connie Steele and I am forty-four years old.
 I am the mother of nine living children and eight dead children

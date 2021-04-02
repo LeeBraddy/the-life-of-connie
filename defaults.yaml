@@ -6,6 +6,7 @@ input-files:
   - contributors.md
   - foreword.md
   - chapter-1.md
+  - chapter-2.md
   - afterword.md
 standalone: true
 table-of-contents: true
